@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>980830038400-3gq6khjb74orj2osonpfp1md4m2ftqpq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.980830038400-3gq6khjb74orj2osonpfp1md4m2ftqpq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARsuY6cJzxKrfPBhwGKT81fJKP-Jv7xqM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>980830038400</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>chat.chatBuddy</string>
+	<key>PROJECT_ID</key>
+	<string>chatbuddy-7108a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatbuddy-7108a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:980830038400:ios:8c9b75de7b209bf2</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatbuddy-7108a.firebaseio.com</string>
+</dict>
+</plist>
